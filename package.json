@@ -1,0 +1,24 @@
+{
+  "name": "talent-sketchers_playwright_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test-smoke": "npx playwright test --@smoke"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.5.5",
+    "electron": "^32.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "playwright": "^1.47.1",
+    "screen": "^0.2.10",
+    "talent-sketchers_playwright_js": "file:"
+  }
+}

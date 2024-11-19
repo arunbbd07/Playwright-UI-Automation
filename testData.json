@@ -1,0 +1,19 @@
+{
+    "baseUrl": "https://automationexercise.com/",
+    "name": "Arun",
+    "password": "test@123",
+    "dateOfBirth": "10-11-2000",
+    "firstName": "Arun",
+    "lastName": "Yadav",
+    "company": "TestCompany",
+    "address": "Noida 1",
+    "address2": "GB Nagar",
+    "state": "U.P.",
+    "city": "Noida",
+    "zipcode": "201307",
+    "mobile": "9540123456",
+    "registeredName": "testArun",
+    "registeredEmail": "testarun@gmail.com",
+    "product": "Men Tshirt",
+    "FullFledgedTextOnHomePage":"Full-Fledged practice website for Automation Engineers"
+}
